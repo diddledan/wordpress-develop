@@ -269,10 +269,10 @@ module.exports = function(grunt) {
 				cmd: 'phpunit',
 				args: ['-c', 'phpunit.xml.dist']
 			},
-			ajax: {
-				cmd: 'phpunit',
-				args: ['-c', 'phpunit.xml.dist', '--group', 'ajax']
-			},
+			//ajax: {
+			//	cmd: 'phpunit',
+			//	args: ['-c', 'phpunit.xml.dist', '--group', 'ajax']
+			//},
 			multisite: {
 				cmd: 'phpunit',
 				args: ['-c', 'tests/phpunit/multisite.xml']
