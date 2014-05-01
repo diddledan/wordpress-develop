@@ -4,7 +4,7 @@
   "description": "WordPress is web software you can use to create a beautiful website or blog.",
   "repository": {
     "type": "svn",
-    "url": "https://develop.svn.wordpress.org/trunk"
+    "url": "https://develop.svn.wordpress.org/branches/3.9"
   },
   "author": "The WordPress Contributors",
   "license": "GPLv2 or later",
